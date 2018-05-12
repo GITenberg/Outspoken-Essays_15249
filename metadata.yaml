@@ -1,0 +1,39 @@
+_repo: Outspoken-Essays_15249
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Inge, William Ralph
+    aliases:
+    - Inge, Dean (William Ralph)
+    - Inge, W. R. (William Ralph)
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1534'
+    url: http://www.gutenberg.org/2009/agents/1534
+    wikipedia: http://en.wikipedia.org/wiki/William_Ralph_Inge
+description: v. 1 Our present discontents; Patriotism; The birth-rate; The future
+  of the English race; Bishop Gore & the church of England; Roman Catholic modernism;
+  Cardinal Newman; St. Paul; Institutionalism & mysticism; The indictment against
+  Christianity; Survival & immortality--v. 2 "Confessio fidei"; The state, visible
+  & invisible; The idea of progress; The Victorian age; The white man & his rivals;
+  The dilemma of civilisation; Eugenics.
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- England -- 20th century'
+- !lcc 'AC'
+tableOfContents: Our present discontents -- Patriotism -- The birth-rate -- The future
+  of the English race -- Bishop Gore and the Church of England -- Roman Catholic modernism
+  -- Cardinal Newman -- St. Paul -- Institutionalism and mysticism -- The indictment
+  against Christianity -- Survival and immortality.
+title: Outspoken Essays
+url: http://www.gutenberg.org/ebooks/15249
